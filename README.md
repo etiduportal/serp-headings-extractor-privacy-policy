@@ -1,0 +1,1 @@
+# serp-headings-extractor-privacy-policy
